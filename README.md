@@ -1,4 +1,4 @@
-## Oi eu sou o Gabriel Bassan
+
 ![original](https://user-images.githubusercontent.com/102334775/179805350-33abe357-3e86-4ae2-9457-189a61037a5b.gif)
 <h1 align="center">Hello , I'm Gabriel Bassan</h1>
 <h3 align="center">I am a full stack developer from Brazil</h3>
