@@ -6,13 +6,12 @@
     <title>Meu Portfólio</title>
     <style>
         footer {
-            text-align: center; /* Centraliza as imagens no footer */
+            text-align: center; 
         }
-
         footer img {
-            display: inline-block; /* Faz as imagens ficarem lado a lado */
+            display: inline-block; 
             height: 150em;
-            margin: 0 10px; /* Dá um espaçamento entre as imagens */
+            margin: 0 10px; 
         }
     </style>
 </head>
@@ -29,7 +28,6 @@
             <p>Recomeçar meus projetos de design e programação é uma oportunidade de aprimorar...</p>
         </section>
     </div>
-
     <footer>
         <img src="https://github-readme-stats.vercel.app/api?username=gbassan09&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbassan09&layout=compact&langs_count=7&theme=dark" />
