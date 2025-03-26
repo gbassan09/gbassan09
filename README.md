@@ -7,7 +7,6 @@
 </head>
 <body>
     <header>
-        Meu Portfólio
     </header>
     <div class="container">
         <section>
