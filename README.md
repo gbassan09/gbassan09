@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbassan09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
 </head>
 <body>
     <header>
@@ -29,6 +24,10 @@ Sou movido pela curiosidade e pelo desejo de aprender, sempre aberto a novas per
         </section>
     </div>
     <footer>
-    </footer>
+<a href="https://github.com/rafaballerini">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbassan09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbassan09&layout=compact&langs_count=7&theme=dark"/>
+ 
+ </footer>
 </body>
 </html>
