@@ -23,9 +23,11 @@ Sou movido pela curiosidade e pelo desejo de aprender, sempre aberto a novas per
             <p>Recomeçar meus projetos de design e programação é uma oportunidade de aprimorar e evoluir. Ao revisitar um projeto, posso repensar decisões de design, otimizar a experiência do usuário e melhorar o código, adotando novas tecnologias e abordagens. Esse processo me permite corrigir falhas, experimentar soluções inovadoras e criar produtos mais eficientes e impactantes, sempre buscando a excelência em cada etapa.</p>
         </section>
     </div>
-<footer style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbassan09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbassan09&layout=compact&langs_count=7&theme=dark"/>
+    </div>
+<footer>
 </footer>
 </body>
 </html>
