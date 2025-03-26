@@ -27,7 +27,8 @@ Sou movido pela curiosidade e pelo desejo de aprender, sempre aberto a novas per
 <h3>Estatísticas</h3>
 <p>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gbassan09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbassan09&layout=compact&langs_count=7&theme=dark"/> </p>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbassan09&layout=compact&langs_count=7&theme=dark"/> 
+</p>
         </section>
    </div>
 <footer>
