@@ -25,8 +25,7 @@ Sou movido pela curiosidade e pelo desejo de aprender, sempre aberto a novas per
         </section>
         <section>
             <h2>Projetos</h2>
-            <p>Recomeçar meus projetos de design e programação é uma oportunidade de aprimorar e evoluir. Ao revisitar um projeto, posso repensar decisões de design, otimizar a experiência do usuário e melhorar o código, adotando novas tecnologias e abordagens. Esse processo me permite corrigir falhas, experimentar soluções inovadoras e criar produtos mais eficientes e impactantes, sempre buscando a excelência em cada etapa.
-.</p>
+            <p>Recomeçar meus projetos de design e programação é uma oportunidade de aprimorar e evoluir. Ao revisitar um projeto, posso repensar decisões de design, otimizar a experiência do usuário e melhorar o código, adotando novas tecnologias e abordagens. Esse processo me permite corrigir falhas, experimentar soluções inovadoras e criar produtos mais eficientes e impactantes, sempre buscando a excelência em cada etapa.</p>
         </section>
     </div>
     <footer>
