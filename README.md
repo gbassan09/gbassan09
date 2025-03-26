@@ -25,11 +25,8 @@ Sou movido pela curiosidade e pelo desejo de aprender, sempre aberto a novas per
         </section>
         <section>
             <h2>Projetos</h2>
-            <p>Lista de projetos e links para os repositórios no GitHub.</p>
-        </section>
-        <section>
-            <h2>Contato</h2>
-            <p>Seu e-mail, LinkedIn ou outras formas de contato.</p>
+            <p>Recomeçar meus projetos de design e programação é uma oportunidade de aprimorar e evoluir. Ao revisitar um projeto, posso repensar decisões de design, otimizar a experiência do usuário e melhorar o código, adotando novas tecnologias e abordagens. Esse processo me permite corrigir falhas, experimentar soluções inovadoras e criar produtos mais eficientes e impactantes, sempre buscando a excelência em cada etapa.
+.</p>
         </section>
     </div>
     <footer>
