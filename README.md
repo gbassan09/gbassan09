@@ -23,7 +23,6 @@
         </section>
     </div>
     <footer>
-        &copy; 2025 Meu Nome - Todos os direitos reservados.
     </footer>
 </body>
 </html>
